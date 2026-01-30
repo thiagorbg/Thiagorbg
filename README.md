@@ -55,7 +55,7 @@
 
 ## 📫 Onde me encontrar
 - GitHub: https://github.com/thiagorbg
-- LinkedIn: (adicione quando tiver)
+- LinkedIn: www.linkedin.com/in/thiago-ribeiro-developer
 
 ---
 
